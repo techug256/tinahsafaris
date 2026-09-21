@@ -9,7 +9,7 @@ const safariPackages = [
   {
     id: 1,
     title: 'Gorilla Trekking Adventure',
-    image: '/images/gorilla.jpg',
+    image: 'images/gorilla.jpg',
     duration: '3 Days / 2 Nights',
     guests: 'Small Groups',
     rating: 4.9,
